@@ -1,0 +1,22 @@
+# One ticker per line. Lines starting with # are ignored.
+# Start small; each ticker adds ~15-30 seconds to the daily run.
+SPY
+QQQ
+IWM
+DIA
+AAPL
+MSFT
+NVDA
+AMZN
+GOOGL
+META
+TSLA
+AMD
+NFLX
+AVGO
+JPM
+BAC
+XOM
+GLD
+TLT
+COIN
